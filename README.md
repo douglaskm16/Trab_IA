@@ -4,7 +4,7 @@ Disciplina de Inteligência Artificial , Professor Munif , Unicesumar 2026
 
 ## Integrantes
 
-* Nome do Aluno 1 - RA: 23403549-2
+* Douglas Kenji Matsumoto - RA: 23403549-2
 
 ## Contextualização do tema escolhido
 
