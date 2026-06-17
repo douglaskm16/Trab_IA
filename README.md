@@ -92,7 +92,7 @@ As métricas utilizadas para avaliação foram:
 | F1-score (Com Doença) | 74%               | 79%    |
 | Falsos Negativos      | 9                 | 6      |
 
-Observou-se que o SVM apresentou melhor desempenho geral, principalmente na identificação correta de pacientes com doença cardíaca, resultando em menor quantidade de falsos negativos.
+Observa-se que o SVM apresentou melhor desempenho geral, principalmente na identificação correta de pacientes com doença cardíaca, resultando em menor quantidade de falsos negativos.
 
 ## Conclusão
 
