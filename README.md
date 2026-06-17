@@ -99,3 +99,23 @@ Observou-se que o SVM apresentou melhor desempenho geral, principalmente na iden
 Os resultados demonstraram que ambos os modelos foram capazes de realizar a classificação dos pacientes. Entretanto, o SVM apresentou desempenho superior nas métricas avaliadas, especialmente no recall da classe positiva, aspecto relevante em aplicações médicas. Por outro lado, a Árvore de Decisão destacou-se pela interpretabilidade, permitindo compreender as regras utilizadas pelo modelo durante o processo de classificação.
 
 Dessa forma, conclui-se que o SVM foi o modelo mais adequado para este conjunto de dados sob a perspectiva preditiva, enquanto a Árvore de Decisão mostrou-se útil para fins explicativos e de apoio à tomada de decisão.
+
+## Mapa do Repositório
+
+heart-disease-ia/
+│
+├── README.md
+├── relatorio.pdf
+├── Slides-ia.pdf
+├── heart.csv
+├── arvore.ipynb
+└── svm.ipynb
+
+## Arquivos do Projeto
+
+- `README.md`: documentação completa do projeto.
+- `relatorio.pdf`: relatório final da atividade.
+- `Slides-ia.pdf`: slides utilizados na apresentação.
+- `arvore.ipynb`: implementação da Árvore de Decisão.
+- `svm.ipynb`: implementação do SVM.
+- `heart.csv`: dataset utilizado nos experimentos.
