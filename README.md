@@ -14,9 +14,9 @@ As doenças cardiovasculares estão entre as principais causas de morte no mundo
 
 Dado um conjunto de características clínicas de pacientes, o objetivo deste trabalho é desenvolver modelos capazes de classificar se um indivíduo possui ou não doença cardíaca.
 
-## Hipótese da equipe
+## Hipótese
 
-A equipe acredita que diferentes algoritmos de Inteligência Artificial apresentarão desempenhos distintos na classificação dos pacientes. Espera-se que o modelo SVM obtenha melhores resultados preditivos, enquanto a Árvore de Decisão ofereça maior interpretabilidade.
+Eu acreditato que diferentes algoritmos de Inteligência Artificial apresentarão desempenhos distintos na classificação dos pacientes. Espera-se que o modelo SVM obtenha melhores resultados preditivos, enquanto a Árvore de Decisão ofereça maior interpretabilidade.
 
 ## Descrição do dataset utilizado
 
