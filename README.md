@@ -25,7 +25,7 @@ Foi utilizado o Heart Disease Dataset, disponibilizado no Kaggle pelo usuário J
 Fonte original:
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
-O arquivo `heart.csv` utilizado nos treinos está disponível neste repositório.
+O arquivo `heart.csv` utilizado nos treinos está disponível no repositório.
 
 A variável alvo é denominada "target", em que:
 
