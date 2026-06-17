@@ -62,9 +62,10 @@ As métricas utilizadas para avaliação foram:
 | Sem Doença | 0,69     | 0,71   | 0,70     |
 | Com Doença | 0,75     | 0,73   | 0,74     |
 
-(Inserir imagem da matriz de confusão da Árvore)
+<img width="578" height="455" alt="arvore-matrizDeConfusao" src="https://github.com/user-attachments/assets/85152644-d317-4432-a304-c3e3760042c5" />
 
-(Inserir imagem da árvore gerada)
+<img width="1570" height="812" alt="arvore-arvoreDeDecisao" src="https://github.com/user-attachments/assets/dc6cb42e-9c17-43ba-829a-9b47ee3f72a7" />
+
 
 ### Resultados do SVM
 
