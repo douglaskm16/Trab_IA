@@ -103,8 +103,8 @@ Dessa forma, conclui-se que o SVM foi o modelo mais adequado para este conjunto 
 ## Arquivos do Projeto
 
 - `README.md`: documentação completa do projeto.
-- `relatorio.pdf`: relatório final da atividade.
 - `Slides-ia.pdf`: slides utilizados na apresentação.
 - `arvore.ipynb`: implementação da Árvore de Decisão.
-- `svm.ipynb`: implementação do SVM.
 - `heart.csv`: dataset utilizado nos experimentos.
+- `relatorio.pdf`: relatório final da atividade.
+- `svm.ipynb`: implementação do SVM.
