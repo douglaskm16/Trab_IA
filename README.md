@@ -20,9 +20,12 @@ A equipe acredita que diferentes algoritmos de Inteligência Artificial apresent
 
 ## Descrição do dataset utilizado
 
-Foi utilizado o Heart Disease Dataset, disponibilizado no Kaggle por John Smith e baseado no tradicional conjunto de dados de Cleveland da UCI Machine Learning Repository.
+Foi utilizado o Heart Disease Dataset, disponibilizado no Kaggle pelo usuário John Smith.
 
-O conjunto de dados contém informações clínicas dos pacientes, incluindo idade, sexo, tipo de dor no peito, pressão arterial, colesterol, frequência cardíaca máxima, entre outras variáveis relevantes.
+Fonte original:
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+O arquivo `heart.csv` utilizado nos treinos está disponível neste repositório.
 
 A variável alvo é denominada "target", em que:
 
