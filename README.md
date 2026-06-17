@@ -16,7 +16,7 @@ Dado um conjunto de características clínicas de pacientes, o objetivo deste tr
 
 ## Hipótese
 
-Eu acreditato que diferentes algoritmos de Inteligência Artificial apresentarão desempenhos distintos na classificação dos pacientes. Espera-se que o modelo SVM obtenha melhores resultados preditivos, enquanto a Árvore de Decisão ofereça maior interpretabilidade.
+Eu acredito que diferentes algoritmos de Inteligência Artificial apresentarão desempenhos distintos na classificação dos pacientes. Espera-se que o modelo SVM obtenha melhores resultados preditivos, enquanto a Árvore de Decisão ofereça maior interpretabilidade.
 
 ## Descrição do dataset utilizado
 
@@ -50,11 +50,11 @@ Os dados foram divididos em conjuntos de treinamento (80%) e teste (20%), utiliz
 
 As métricas utilizadas para avaliação foram:
 
-* Acurácia;
-* Precisão;
-* Recall;
-* F1-score;
-* Matriz de confusão.
+* Acurácia
+* Precisão
+* Recall
+* F1-score
+* Matriz de confusão
 
 ### Resultados da Árvore de Decisão
 
