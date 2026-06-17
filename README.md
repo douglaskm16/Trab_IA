@@ -100,21 +100,6 @@ Os resultados demonstraram que ambos os modelos foram capazes de realizar a clas
 
 Dessa forma, conclui-se que o SVM foi o modelo mais adequado para este conjunto de dados sob a perspectiva preditiva, enquanto a Árvore de Decisão mostrou-se útil para fins explicativos e de apoio à tomada de decisão.
 
-## Mapa do Repositório
-
-heart-disease-ia/
-│
-├── README.md
-├── relatorio.pdf
-├── apresentacao.pptx
-├── heart.csv
-├── arvore_decisao.ipynb
-├── svm.ipynb
-└── imagens/
-    ├── matriz_svm.png
-    ├── matriz_arvore.png
-    └── arvore_decisao.png
-
 ## Arquivos do Projeto
 
 - `README.md`: documentação completa do projeto.
