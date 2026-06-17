@@ -106,10 +106,14 @@ heart-disease-ia/
 │
 ├── README.md
 ├── relatorio.pdf
-├── Slides-ia.pdf
+├── apresentacao.pptx
 ├── heart.csv
-├── arvore.ipynb
-└── svm.ipynb
+├── arvore_decisao.ipynb
+├── svm.ipynb
+└── imagens/
+    ├── matriz_svm.png
+    ├── matriz_arvore.png
+    └── arvore_decisao.png
 
 ## Arquivos do Projeto
 
