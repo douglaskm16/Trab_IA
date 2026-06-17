@@ -76,7 +76,8 @@ As métricas utilizadas para avaliação foram:
 | Sem Doença | 0,77     | 0,71   | 0,74     |
 | Com Doença | 0,77     | 0,82   | 0,79     |
 
-(Inserir imagem da matriz de confusão do SVM)
+<img width="591" height="455" alt="svm-matrizDeConfusao" src="https://github.com/user-attachments/assets/c0dbd877-66dc-4673-924a-9390c3869f20" />
+
 
 ## Comparação dos resultados
 
